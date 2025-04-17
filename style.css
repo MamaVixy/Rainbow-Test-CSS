@@ -21,13 +21,13 @@ body {
 .scroll {
     display: block;
     font-size: 20px;
-    color: #2c1b2a;
+    color: #79305a;
     margin-top: 20px;
     padding-left: 30px;
 }
 
 /* Den Image Section */
-.den-image {
+/*.den-image {
     background: url('https://korekawaii.com/cdn/shop/files/S3dab70ff1b5d4126a3ee55f97d47251fG.webp?v=1710946204&width=1445') no-repeat;
     background-size: cover;
     width: 40%;
@@ -61,4 +61,9 @@ body {
 /* Flat Background Color */
 .backgroundimg {
     background-color: #f7a6c2; /* Mid-toned pink background */
+}
+
+.cave {
+    background: url('https://korekawaii.com/cdn/shop/files/S3dab70ff1b5d4126a3ee55f97d47251fG.webp?v=1710946204&width=1445') no-repeat center;
+    background-size: cover;
 }
