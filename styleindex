@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Rainbow Den</title>
+    <!-- Link to the hosted CSS -->
+    <link rel="stylesheet" href="https://mamavixy.github.io/Rainbow-New-Test/style.css">
+</head>
+<body>
+    <h1>Welcome to My Rainbow Den!</h1>
+    <p>This is where the magic happens!</p>
+    <!-- Your content goes here -->
+</body>
+</html>
