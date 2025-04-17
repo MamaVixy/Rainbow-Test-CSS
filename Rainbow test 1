@@ -1,0 +1,64 @@
+/* === BACKGROUND === */
+body {
+  background: url('https://img.freepik.com/premium-vector/colorful-magical-pastel-paint-abstract-background_574033-1832.jpg') no-repeat center center fixed;
+  background-size: cover;
+  font-family: "Dancing Script", cursive;
+  color: #000000;
+}
+ 
+/* === MAIN BOX (default area) === */
+.container.main {
+  background: rgba(255, 255, 255, 0.8);
+  border-radius: 15px;
+  padding: 20px;
+}
+ 
+/* === DEN PAGE BACKGROUND (lion image area) === */
+#lion_image {
+  background: url('https://korekawaii.com/cdn/shop/files/S3dab70ff1b5d4126a3ee55f97d47251fG.webp?v=1710946204&width=1445') no-repeat center center;
+  background-size: cover;
+}
+ 
+/* === PREGNANT LIONESSES SECTION === */
+.table:has(h3:contains("Pregnant Lionesses")) {
+  background: url('https://64.media.tumblr.com/b9c7f2f565c505f454293c9677f27559/b7d3d9b2099cf7db-5b/s540x810/2562347052692c90ede84a1b44256f6b0fd3b4e8.png') no-repeat center center;
+  background-size: cover;
+  border-radius: 10px;
+  padding: 10px;
+}
+ 
+/* === HEADERS === */
+h1, h2, h3, h4 {
+  font-family: "Dancing Script", cursive;
+  color: #000;
+}
+ 
+/* === LINKS === */
+a {
+  color: #222;
+  text-decoration: none;
+}
+ 
+a:hover {
+  color: #ff69b4;
+}
+ 
+/* === TABLES === */
+th, td {
+  background: rgba(255, 255, 255, 0.6);
+  color: #000;
+  padding: 5px;
+  border: 1px solid #ccc;
+}
+ 
+/* === SCROLLBAR === */
+::-webkit-scrollbar {
+  width: 8px;
+}
+::-webkit-scrollbar-thumb {
+  background-color: #bbb;
+  border-radius: 5px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background-color: #999;
+}
