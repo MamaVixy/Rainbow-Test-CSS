@@ -1,69 +1,60 @@
-/* General Body and Background */
 body {
-    font-family: 'Dancing Script', cursive; /* Cursive font */
     background: url('https://img.freepik.com/premium-vector/colorful-magical-pastel-paint-abstract-background_574033-1832.jpg') no-repeat center center fixed;
     background-size: cover;
-    color: #2c1b2a; /* Very dark pink for text */
+    color: #FFFFFF !important;
+    font-family: 'Lucida Sans Unicode', sans-serif;
 }
 
-/* Links Styling */
-.links a {
-    color: #2c1b2a; /* Very dark pink */
-    text-decoration: none;
-    font-size: 18px;
+div.container.main > div:nth-child(1) > nav > div.navbar-header > a > img {
+    content: url('https://i.ibb.co/bRGh1Pc/logo-full-2.p…');
 }
 
-.links a:hover {
-    text-decoration: underline;
+.navbar {
+    background: #F3C1D1 !important; /* Light pink background */
+    color: #FFFFFF !important;
+    border: 1px solid #000000 !important;
 }
 
-/* Scroll Section */
-.scroll {
-    display: block;
-    font-size: 20px;
-    color: #79305a;
-    margin-top: 20px;
-    padding-left: 30px;
+.navbar li a {
+    color: #F3C1D1 !important; /* Light pink for links */
 }
 
-/* Den Image Section */
-/*.den-image {
-    background: url('https://korekawaii.com/cdn/shop/files/S3dab70ff1b5d4126a3ee55f97d47251fG.webp?v=1710946204&width=1445') no-repeat;
-    background-size: cover;
-    width: 40%;
-    height: 300px;
-    padding: 20px;
-    margin: 5px 1px 10px 30px;
-    font-size: 25px;
+.navbar li a:hover {
+    background: #FFB6C1 !important; /* Slightly darker pink for hover */
 }
 
-/* Credit Section */
-.credit {
-    font-size: 14px;
-    color: #fff;
+/* Pink-themed styling for other sections */
+.col-md-9.col-xs-12, .sidebar, .panel, .chat_light, .chat_dark {
+    background: #F3C1D1 !important;
+    color: #FFFFFF !important;
+    border: 1px solid #000000 !important;
 }
 
-/* Customize Lioden Logo */
-.credit a {
-    text-decoration: none;
-    color: #ff69b4; /* Pink color for the link */
+input[type="button"], input[type="submit"], input[type="text"], input[type="password"], textarea, select {
+    background: #F3C1D1 !important;
+    color: #FFFFFF !important;
+    border: 1px solid #000000 !important;
 }
 
-.credit a:hover {
-    text-decoration: underline;
+input[type="button"]:hover, input[type="submit"]:hover {
+    background: #FFB6C1 !important; /* Hover effect */
 }
 
-/* Cursor Change */
-body {
-    cursor: url('https://img.icons8.com/external-flat-juicy-fish/64/000000/external-star-cursor-flat-flat-juicy-fish.png'), auto;
+a:link, a:visited {
+    color: #F3C1D1 !important; /* Light pink links */
 }
 
-/* Flat Background Color */
-.backgroundimg {
-    background-color: #f7a6c2; /* Mid-toned pink background */
+a:hover {
+    color: #FFB6C1 !important; /* Darker pink on hover */
 }
 
-.cave {
-    background: url('https://korekawaii.com/cdn/shop/files/S3dab70ff1b5d4126a3ee55f97d47251fG.webp?v=1710946204&width=1445') no-repeat center;
-    background-size: cover;
+.progress-bar {
+    background: #FFB6C1 !important; /* Pink progress bars */
+}
+
+.alert-danger, .alert-success {
+    background: #FFB6C1 !important;
+    color: #0C0608 !important;
+    border: 1px solid #000000 !important;
+    text-align: center !important;
 }
