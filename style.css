@@ -673,22 +673,22 @@ div.container.main>div:nth-child(1)>nav>div.navbar-header>a>img {
 
 
 div.cave-grid>img /* Pregnant Lionesses */ {
-	content: url('IMAGE URL') !important
+	content: url('https://www.mewcats.com/cdn/shop/files/rainbow-cat-nest-semi-closed-rocking-bed-mewcats-14.jpg?v=1736569390') !important
 }
 
 
 a[href$="CAVE ID"]>div.cave-grid>img {
-	content: url('IMAGE URL') !important
+	content: url('https://homeplistic.com/cdn/shop/products/product-image-1900135926_620x.jpg?v=1652813818') !important
 }
 
 
 a[href$="lionoverview.php?id=PLAYER ID"]>div.cave-grid>img /* Pride Overview */ {
-	content: url('IMAGE URL') !important
+	content: url('https://www.mewcats.com/cdn/shop/files/rainbow-cat-nest-semi-closed-rocking-bed-mewcats-3.jpg?v=1736569378') !important
 }
 
 
 a[href$="unsorted.php?id=PLAYER ID"]>div.cave-grid>img /* Unsorted */ {
-	content: url('IMAGE URL') !important
+	content: url('https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcR2Z1iDavvBum16FTtwINWvwwmFhIQvoVPeWSnBgYOKPQQXxGZ9bCcGtdHdUkVVIfAesUJkWCaK2YOXFrKbks_NBcSCBCKunrdxlv1vQDm1iB2eKpr7sk07hA') !important
 }
 
 
