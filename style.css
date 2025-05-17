@@ -166,7 +166,7 @@ button.button, button.button:hover {
 .alert-danger {
 	background: rgba(1, 1, 1, 0.5) !important;
 	border: none;
-	color: #000000;
+	color: #ffffff;
 	border-radius: 0px !important
 }
 
@@ -371,8 +371,8 @@ td.right {
 
 .feature {
 	background: rgba(1, 1, 1, 0.5) !important;
-	color: #000000 !important;
-	border: 1px solid #000000 !important;
+	color: #ffffff !important;
+	border: 1px solid #ffffff !important;
 	border-radius: 0px !important
 }
 
@@ -417,7 +417,7 @@ textarea {
 
 .item-header {
 	background: rgba(1, 1, 1, 0.5) !important;
-	color: #000000  !important;
+	color: #ffffff  !important;
 	border-radius: 0px !important;
 }
 
@@ -433,7 +433,7 @@ textarea {
 
 
 div.slider.round /* Background */ {
-	background: #000000 !important
+	background: #ffffff !important
 }
 
 
